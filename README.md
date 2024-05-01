@@ -6,13 +6,23 @@ We specialize in **Offensive Security, Cybersecurity, and Ethical Hacking**, pus
 
 ---
 
-## 🧠 What I Do
+## 🧠 What We Do
 
 We create robust tools for:
 - **Pentesting**: Scripts that probe and analyze network vulnerabilities.
 - **Red Teaming**: Tools that simulate real-world attacks to test defenses.
 - **OSINT (Open Source Intelligence)**: Gathering data from publicly available sources to aid in cybersecurity.
 - **Web Application Hacking**: Exploiting web app vulnerabilities to improve security measures.
+
+## 💖 Support Our Work
+
+If you find our work helpful, consider supporting our efforts with a donation! Every bit helps keep the projects maintained and the innovations coming, helps us as a family, where the next generation in Cybersecurity practices in our home lab. 
+
+- **Ethereum (ETH)**: `0x0A7CC405c3ED764D01AA0CDCE5a922F6a0e699c9`
+- **Bitcoin (BTC)**: `bc1q6mmwxjztfjtsfvtq5tlju866ghzkkg400yvles`
+- **Solana (SOL)**: `F8GA7DnT7AuL9LEyjREyTPJPouDc7herys7SUmihmWiD`
+- **Polygon (MATIC)**: `0x0A7CC405c3ED764D01AA0CDCE5a922F6a0e699c9`
+
 
 ## 💻 Technologies We Use
 
@@ -35,15 +45,6 @@ You can find contact and social addresses on our websites.
 
 - **[Professional OSINT](https://blog.network-sec.de/post/open_source_intelligence_2024_eu_version/)**: 2024 Germany & EU Edition.
 - **[Contemporary Persistence using C2 Sliver](https://blog.network-sec.de/post/persistence_c2_contemporary_true_cybercrime_anyrun_sliver/)**: In a `Assumed Breach` scenario we show how to establish persistance with C2 sliver.
-
-## 💖 Support My Work
-
-If you find my work helpful, consider supporting my efforts with a donation! Every bit helps keep the projects maintained and the innovations coming, helps my wife and my kids, who already practice to become the next generation in Cybersecurity. 
-
-- **Ethereum (ETH)**: `0x0A7CC405c3ED764D01AA0CDCE5a922F6a0e699c9`
-- **Bitcoin (BTC)**: `bc1q6mmwxjztfjtsfvtq5tlju866ghzkkg400yvles`
-- **Solana (SOL)**: `F8GA7DnT7AuL9LEyjREyTPJPouDc7herys7SUmihmWiD`
-- **Polygon (MATIC)**: `0x0A7CC405c3ED764D01AA0CDCE5a922F6a0e699c9`
 
 ---
 
