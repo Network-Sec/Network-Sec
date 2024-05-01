@@ -1,5 +1,6 @@
-<h1 style="float: left;" tabindex="-1" class="heading-element" dir="auto">Hi there, we're ΒříČKēɗ <a target="_blank" rel="noopener noreferrer" href="https://github.com/Network-Sec/Network-Sec/blob/main/bricked.png?raw=true"><img alt="bricked.png" src="https://github.com/Network-Sec/Network-Sec/raw/main/bricked.png?raw=true" style="width: 50px; max-width: 100%;"></a></h1><img alt="bricked.png" src="https://github.com/Network-Sec/Network-Sec/blob/main/bricked.png?raw=true" data-hpc="true" style="width: 50px; float: right">
-
+<div style="display: flex; flex-flow: row; align-items: center; justify-content: center">
+<h1 tabindex="-1" class="heading-element" dir="auto">Hi there, we're ΒříČKēɗ <a target="_blank" rel="noopener noreferrer" href="https://github.com/Network-Sec/Network-Sec/blob/main/bricked.png?raw=true"><img alt="bricked.png" src="https://github.com/Network-Sec/Network-Sec/raw/main/bricked.png?raw=true" style="width: 50px; max-width: 100%;"></a></h1><img alt="bricked.png" src="https://github.com/Network-Sec/Network-Sec/blob/main/bricked.png?raw=true" data-hpc="true" style="width: 50px">
+</div>
 ### Welcome to our GitHub space! 🚀
 
 We specialize in **Offensive Security, Cybersecurity, and Ethical Hacking**, pushing the boundaries of what's possible in digital defense strategies. 
