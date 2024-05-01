@@ -46,6 +46,10 @@ You can find contact and social addresses on our websites.
 - **[Professional OSINT](https://blog.network-sec.de/post/open_source_intelligence_2024_eu_version/)**: 2024 Germany & EU Edition.
 - **[Contemporary Persistence using C2 Sliver](https://blog.network-sec.de/post/persistence_c2_contemporary_true_cybercrime_anyrun_sliver/)**: In a `Assumed Breach` scenario we show how to establish persistance with C2 sliver.
 
+## 🖼️ Legacy in 3D Rendering
+
+For over 20 years, long before AI democratized the creation of 3D images, we have been at the forefront of 3D rendering as an art form. Our renderings, especially those depicting `server rooms`, have reached over 30 million people and graced countless websites. Despite these contributions being available under `CC-0`, allowing unrestricted use, we have rarely received noticeable donations. This legacy highlights our commitment to the advancement and accessibility of digital art and technology. Explore more of our work on [Pexels](https://www.pexels.com/de-de/@artunchained/).
+
 ---
 
 Thank you for visiting our GitHub! Feel free to connect or contribute to any project. Let's make the digital world a safer place together. Much `Love` to everyone, it's the only thing that can save us all. We openly speak out against **Hate** & **Discrimination** - we believe, we're all the same, yet we don't have all the same `privileges`. No escalation jokes at that point.
