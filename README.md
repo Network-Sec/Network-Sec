@@ -1,4 +1,4 @@
-# Hi there, we're ΒříČKēɗ <img alt="bricked.png" src="https://github.com/Network-Sec/Network-Sec/blob/main/bricked.png?raw=true" data-hpc="true" style="width: 50px">
+# Hi there, we're ΒříČKēɗ <img alt="bricked.png" src="https://github.com/Network-Sec/Network-Sec/blob/main/bricked.png?raw=true" data-hpc="true" style="width: 50px; float: right">
 
 ### Welcome to our GitHub space! 🚀
 
