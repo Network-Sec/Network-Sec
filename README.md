@@ -24,7 +24,7 @@ We create robust tools for:
 
 - **bin-tools-pub**: Most of our everyday scripts end up there, unsorted yet updated and really helpful timesavers
 
-## 📫 How to Reach Me
+## 📫 How to Reach Us
 You can find contact and social addresses on our websites. 
 
 - **GitHub**: [Network-Sec](https://github.com/Network-Sec)
