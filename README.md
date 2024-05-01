@@ -1,4 +1,4 @@
-# Hi there, we're ΒříČKēɗ 
+# Hi there, we're ΒříČKēɗ ![Bricked Phone](bricked.png)
 
 ### Welcome to our GitHub space! 🚀
 
