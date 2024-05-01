@@ -31,10 +31,10 @@ You can find contact and social addresses on our websites.
 - **Blog**: [Our Cybersecurity Blog](https://blog.network-sec.de/)
 - **Profile**: [Our Profile and Identity Website](https://profile.network-sec.de/)
 
-## 📝 Latest Blog Posts
+## 📝 Pinned Blog Posts
 
-- **[Your Blog Post Title Here]**: A short description of the blog post.
-- **[Another Blog Post Title]**: Another tantalizing snippet from your latest writing.
+- **[Professional OSINT](https://blog.network-sec.de/post/open_source_intelligence_2024_eu_version/)**: 2024 Germany & EU Edition.
+- **[Contemporary Persistence using C2 Sliver](https://blog.network-sec.de/post/persistence_c2_contemporary_true_cybercrime_anyrun_sliver/)**: In a `Assumed Breach` scenario we show how to establish persistance with C2 sliver.
 
 ## 💖 Support My Work
 
