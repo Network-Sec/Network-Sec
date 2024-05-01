@@ -1,7 +1,5 @@
-<div style="display: flex; flex-flow: row; align-items: center; justify-content: center">
-  <h1 tabindex="-1" class="heading-element" dir="auto">Hi there, we're ΒříČKēɗ</h1>
-  <img alt="bricked.png" src="https://github.com/Network-Sec/Network-Sec/blob/main/bricked.png?raw=true" data-hpc="true" style="width: 50px">
-</div>
+# Hi there, we're ΒříČKēɗ  <img alt="bricked.png" src="https://github.com/Network-Sec/Network-Sec/blob/main/bricked.png?raw=true" data-hpc="true" style="width: 30px">
+
 ### Welcome to our GitHub space! 🚀
 
 We specialize in **Offensive Security, Cybersecurity, and Ethical Hacking**, pushing the boundaries of what's possible in digital defense strategies. 
