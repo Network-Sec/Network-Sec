@@ -1,5 +1,7 @@
 # Hi there, we're ΒříČKēɗ  <img alt="bricked.png" src="https://github.com/Network-Sec/Network-Sec/blob/main/bricked.png?raw=true" data-hpc="true" style="width: 40px">
 
+Fear not, you're probably like us and faced nothing but sh*t in this life. And if you're not - good for you, you're welcome like everyone. Please, only one thing: Try to **keep all negative feelings outside** of this place. This may sound esotheric - rest assured, that's not our philosophy - cause for us, `Hacking` always was a peace place. A place, where only few can enter, for their love towards tech, that includes building & breaking tech. I believe, this world doesn't deserve us, and that why, it's hating us and tries to eliminate us. **But we resist**
+
 ### Welcome to our GitHub space! 🚀
 
 We specialize in **Offensive Security, Cybersecurity, and Ethical Hacking**, pushing the boundaries of what's possible in digital defense strategies. 
