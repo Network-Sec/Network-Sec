@@ -70,7 +70,7 @@ Thank you for visiting our GitHub! Feel free to connect or contribute to any pro
 
 Much ❤️🧡💕 `Love` 💕🧡❤️ to everyone!
 
-It's the only thing that can save us all (but probably won't, as we all seem to try and increase the entropy). 
+It's the only thing that can save us (but probably won't, as we all seem to try and increase the entropy. Nope we're not better than you). 
 
 We openly speak out against **Hate** & **Discrimination** - we believe, we're all the same, yet we don't have all the same `privileges`. No escalation jokes at that point.
 
