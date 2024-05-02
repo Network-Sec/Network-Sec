@@ -4,7 +4,7 @@ Fear not, you're probably like us and faced nothing but sh*t in this life. And i
 
 Try to **keep all negative feelings outside** of this place. This may sound esotheric - rest assured, that's not our philosophy. 
 
-For us, `Hacking` always was a **peace place**. A place, where only few can enter, for their dedication and love towards tech, which includes building & breaking tech. We believe, this world doesn't deserve us, and that why, it tries to eliminate us. 
+For us, `Hacking` always was a **peace place**. A place, where only few can enter, for their dedication and love for tech, which includes building & breaking tech. We believe, this world doesn't deserve us, and that why, it tries to eliminate us. 
 
 **But we resist**
 
@@ -70,7 +70,7 @@ Thank you for visiting our GitHub! Feel free to connect or contribute to any pro
 
 Much ❤️🧡💕 `Love` 💕🧡❤️ to everyone!
 
-It's the only thing that can save us (but probably won't, as we all seem to try and increase the entropy. Nope we're not better than you). 
+It's the only thing that could save us and keep us sane (but probably won't, as we all seem to try and increase the entropy. Nope we're not better than you). 
 
 We openly speak out against **Hate** & **Discrimination** - we believe, we're all the same, yet we don't have all the same `privileges`. No escalation jokes at that point.
 
