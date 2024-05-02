@@ -66,5 +66,11 @@ Explore our work on [Pexels](https://www.pexels.com/de-de/@artunchained/).
 
 ---
 
-Thank you for visiting our GitHub! Feel free to connect or contribute to any project. Let's make the digital world a safer place together. Much ❤️🧡💕💞💓 `Love` 💓💞💕🧡❤️ to everyone, it's the only thing that can save us all (but probably won't, as everyone seems to try and increase the entropy). We openly speak out against **Hate** & **Discrimination** - we believe, we're all the same, yet we don't have all the same `privileges`. No escalation jokes at that point.
+Thank you for visiting our GitHub! Feel free to connect or contribute to any project. Let's make the digital world a safer place together. 
+
+Much ❤️🧡💕💞💓 `Love` 💓💞💕🧡❤️ to everyone!
+
+It's the only thing that can save us all (but probably won't, as we all seem to try and increase the entropy). 
+
+We openly speak out against **Hate** & **Discrimination** - we believe, we're all the same, yet we don't have all the same `privileges`. No escalation jokes at that point.
 
