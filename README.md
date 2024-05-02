@@ -45,10 +45,11 @@ If you find our work helpful, consider supporting our efforts with a donation! E
 ## 📫 How to Reach Us
 You can find contact and social addresses on our websites. 
 
-- **GitHub**: [Network-Sec](https://github.com/Network-Sec)
 - **Blog**: [Our Cybersecurity Blog](https://blog.network-sec.de/)
 - **Profile**: [Our Profile and Identity Website](https://profile.network-sec.de/)
-
+- **GitHub**: [This GitHub](https://github.com/Network-Sec)
+- **Twitter**: [@Br1CkeD](https://twitter.com/__Br1CkeD__)
+    
 ## 📝 Pinned Blog Posts
 
 - **[Professional OSINT](https://blog.network-sec.de/post/open_source_intelligence_2024_eu_version/)**: 2024 Germany & EU Edition.
