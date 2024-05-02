@@ -68,7 +68,7 @@ Explore our work on [Pexels](https://www.pexels.com/de-de/@artunchained/).
 
 Thank you for visiting our GitHub! Feel free to connect or contribute to any project. Let's make the digital world a safer place together. 
 
-Much ❤️🧡💕💞💓 `Love` 💓💞💕🧡❤️ to everyone!
+Much ❤️🧡💕 `Love` 💕🧡❤️ to everyone!
 
 It's the only thing that can save us all (but probably won't, as we all seem to try and increase the entropy). 
 
