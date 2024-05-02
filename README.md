@@ -58,7 +58,7 @@ You can find contact and social addresses on our websites.
 
 For over 20 years, long before AI democratized the creation of 3D images, we have been at the forefront of 3D rendering as an art form. Our renderings, especially those depicting `server rooms`, have reached over 30 million people and graced countless websites. 
 
-Despite these contributions being available under `CC-0`, allowing unrestricted use, we have rarely received noticeable donations (< $10 total). This legacy highlights our commitment to the advancement and accessibility of digital art and technology. We'll keep on creating `FOSS` and `Artwork` without CopyRight, truly believing in **Freedom Of Information**. 
+Despite these contributions being available under `CC-0`, allowing unrestricted use, we have rarely received noticeable donations (< $10 total). This legacy highlights our commitment to the advancement and accessibility of digital art and technology. We'll keep on creating `FOSS` and `Artwork` without Copyright, truly believing in **Freedom Of Information**. 
 
 Explore more of our work on [Pexels](https://www.pexels.com/de-de/@artunchained/).
 
