@@ -10,7 +10,7 @@ For us, `Hacking` always was a **peace place**. A place, where only few can ente
 
 ### Welcome to our GitHub space! 🚀
 
-We specialize in **Offensive Security, Cybersecurity, and Ethical Hacking**, pushing the boundaries of what's possible in digital defense strategies. 
+We specialize in **Offensive Security, Cybersecurity, and Ethical Hacking**, pushing the boundaries of what's possible in digital defense strategies. Yeah, maybe not exactly. But it sounds good. 
 
 ---
 
