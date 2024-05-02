@@ -52,6 +52,7 @@ You can find contact and social addresses on our websites.
 ## 📝 Pinned Blog Posts
 
 - **[Professional OSINT](https://blog.network-sec.de/post/open_source_intelligence_2024_eu_version/)**: 2024 Germany & EU Edition.
+- **[Reviving C2 Powershell Empire](https://blog.network-sec.de/post/c2_evasion_revive_powershell_empire_starkiller/)**: Reviving Empire Payloads to bypass Defender
 - **[Contemporary Persistence using C2 Sliver](https://blog.network-sec.de/post/persistence_c2_contemporary_true_cybercrime_anyrun_sliver/)**: In a `Assumed Breach` scenario we show how to establish persistance with C2 sliver.
 
 ## 🖼️ Legacy in 3D Rendering
