@@ -24,7 +24,7 @@ We create robust tools for:
 
 Some of our tools & scripts represent not a holistic, complete solution, but rather a piece of the puzzle. We like the `microservices` strategy in tooling, so we often build scripts that are meant to be used in a longer chain of in- and outputs, loops or other scripts. 
 
-Due to very limited resources, we try to make use of everything we can, everything that's out there - and there's a lot out there. Tons of software, writeups and techniques we hardly could create ourselfs, but like everyone, need in our work. Imagine you'd have to build your own nmap, or Linux, or CPU... impossible. Why not go the other way then? Try to extend only the part that is not available, often times the **premium** where you'd need to pay for. 
+Due to very limited resources, we try to make use of everything we can, everything that's out there - and there's a lot out there. Tons of software, writeups and techniques we hardly could create ourselfs, but like everyone, need in our work. Imagine you'd have to build your own nmap, or Linux, or CPU... impossible. Why not go the other way then? Try to extend only the part that is not available, often times the **premium** where you'd need to pay for. Trust when we say, we would much rather pay for, if we could. It's a lot more fun to buy a service than to sit down for 18h and build a tool.  
 
 ## 💖 Support Our Work
 
