@@ -22,6 +22,10 @@ We create robust tools for:
 - **OSINT (Open Source Intelligence)**: Gathering data from publicly available sources to aid in cybersecurity.
 - **Web Application Hacking**: Exploiting web app vulnerabilities to improve security measures.
 
+Some of our tools & scripts represent not a holistic, complete solution, but rather a piece of the puzzle. We like the `microservices` strategy in tooling, so we often build scripts that are meant to be used in a longer chain of in- and outputs, loops or other scripts. 
+
+Due to very limited resources, we try to make use of everything we can, other people's work - and try to extend only the part that is not available, often times the **premium** where you'd need to pay for. 
+
 ## 💖 Support Our Work
 
 If you find our work helpful, consider supporting our efforts with a donation! Every bit helps keep the projects maintained and the innovations coming, helps us as a family, where the next generation in Cybersecurity practices in our home lab. 
