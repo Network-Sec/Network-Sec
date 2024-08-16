@@ -45,28 +45,12 @@ If you find our work helpful, consider supporting our efforts with a donation! E
 ## 🌟 Featured Projects
 
 - **bin-tools-pub**: Most of our everyday scripts end up there, unsorted yet updated and really helpful timesavers
-
-## 📫 How to Reach Us
-You can find contact and social addresses on our websites. 
-
-- **Blog**: [Our Cybersecurity Blog](https://blog.network-sec.de/)
-- **Profile**: [Our Profile and Identity Website](https://profile.network-sec.de/)
-- **GitHub**: [This GitHub](https://github.com/Network-Sec)
-- **Twitter**: [@Br1CkeD](https://twitter.com/__Br1CkeD__)
     
 ## 📝 Pinned Blog Posts
 
 - **[Professional OSINT](https://blog.network-sec.de/post/open_source_intelligence_2024_eu_version/)**: 2024 Germany & EU Edition.
 - **[Reviving C2 Powershell Empire](https://blog.network-sec.de/post/c2_evasion_revive_powershell_empire_starkiller/)**: Reviving Empire Payloads to bypass Defender
 - **[Contemporary Persistence using C2 Sliver](https://blog.network-sec.de/post/persistence_c2_contemporary_true_cybercrime_anyrun_sliver/)**: In a `Assumed Breach` scenario we show how to establish persistance with C2 sliver.
-
-## 🖼️ Legacy in 3D Rendering
-
-For over 20 years, long before AI democratized the creation of 3D images, we have been at the forefront of 3D rendering as an art form. Our renderings, especially those depicting `server rooms`, have reached over 30 million people and graced countless websites. 
-
-Despite these contributions being available under `CC-0`, allowing unrestricted use, we have rarely received noticeable donations (< $10 total - what lucky bastards we are). This legacy highlights our commitment to the advancement and accessibility of digital art and technology. We'll keep on creating `FOSS` and `Artwork` without Copyright, truly believing in **Freedom Of Information**. 
-
-Explore our work on [Pexels](https://www.pexels.com/de-de/@artunchained/).
 
 ---
 
