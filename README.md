@@ -25,6 +25,9 @@ If you find our work helpful, consider supporting our efforts with a donation! E
 - **Solana (SOL)**: `F8GA7DnT7AuL9LEyjREyTPJPouDc7herys7SUmihmWiD`
 - **Polygon (MATIC)**: `0x0A7CC405c3ED764D01AA0CDCE5a922F6a0e699c9`
 
+*Donations Received:* So far - exactly 0. 
+
+## About
     
 We openly speak out against **Hate** & **Discrimination** - we believe, we're all the same, yet we don't have all the same `privileges`. No escalation jokes at that point. We believe, this world doesn't deserve us, and that why, it tries to eliminate us. 
 
