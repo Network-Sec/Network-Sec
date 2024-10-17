@@ -1,7 +1,3 @@
-We believe, this world doesn't deserve us, and that why, it tries to eliminate us. 
-
-**But we resist**
-
 ### Welcome to our GitHub space! 🚀
 
 We specialize in **Offensive Security, Cybersecurity, and Ethical Hacking**, pushing the boundaries of what's possible in digital defense strategies. Yeah, maybe not exactly. But it sounds good. 
@@ -30,5 +26,8 @@ If you find our work helpful, consider supporting our efforts with a donation! E
 - **Polygon (MATIC)**: `0x0A7CC405c3ED764D01AA0CDCE5a922F6a0e699c9`
 
     
-We openly speak out against **Hate** & **Discrimination** - we believe, we're all the same, yet we don't have all the same `privileges`. No escalation jokes at that point.
+We openly speak out against **Hate** & **Discrimination** - we believe, we're all the same, yet we don't have all the same `privileges`. No escalation jokes at that point. We believe, this world doesn't deserve us, and that why, it tries to eliminate us. 
+
+**But we resist**
+
 
