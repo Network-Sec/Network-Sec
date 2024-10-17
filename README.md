@@ -1,10 +1,4 @@
-# Hi there, we're ΒříČKēɗ  <img alt="bricked.png" src="https://github.com/Network-Sec/Network-Sec/blob/main/bricked.png?raw=true" data-hpc="true" style="width: 40px">
-
-Fear not, you're probably like us and faced nothing but sh*t in this life. And if you're not - good for you, you're welcome like everyone. Please, only one thing: 
-
-Try to **keep all negative feelings outside** of this place. This may sound esotheric - rest assured, that's not our philosophy. 
-
-For us, `Hacking` always was a **peace place**. A place, where only few can enter, for their dedication and love for tech, which includes building & breaking tech. We believe, this world doesn't deserve us, and that why, it tries to eliminate us. 
+We believe, this world doesn't deserve us, and that why, it tries to eliminate us. 
 
 **But we resist**
 
@@ -18,9 +12,9 @@ We specialize in **Offensive Security, Cybersecurity, and Ethical Hacking**, pus
 
 We create robust tools for:
 - **Pentesting**: Scripts that probe and analyze network vulnerabilities.
-- **Red Teaming**: Tools that simulate real-world attacks to test defenses.
+- **RedTeaming**: Tools that simulate real-world attacks to test defenses.
 - **OSINT (Open Source Intelligence)**: Gathering data from publicly available sources to aid in cybersecurity.
-- **Web Application Hacking**: Exploiting web app vulnerabilities to improve security measures.
+- **CTF**: Capture The Flag, Hacking and Learning Security gamified.
 
 Some of our tools & scripts represent not a holistic, complete solution, but rather a piece of the puzzle. We like the `microservices` strategy in tooling, so we often build scripts that are meant to be used in a longer chain of in- and outputs, loops or other scripts. 
 
@@ -35,30 +29,6 @@ If you find our work helpful, consider supporting our efforts with a donation! E
 - **Solana (SOL)**: `F8GA7DnT7AuL9LEyjREyTPJPouDc7herys7SUmihmWiD`
 - **Polygon (MATIC)**: `0x0A7CC405c3ED764D01AA0CDCE5a922F6a0e699c9`
 
-
-## 💻 Technologies We Use
-
-- **Languages**: Python, Bash, JavaScript, C, C#, Assembly, ...
-- **Tools**: Bash, Python, Burp, Debuggers, ... in that order
-- **Platforms**: Linux, Windows
-
-## 🌟 Featured Projects
-
-- **bin-tools-pub**: Most of our everyday scripts end up there, unsorted yet updated and really helpful timesavers
     
-## 📝 Pinned Blog Posts
-
-- **[Professional OSINT](https://blog.network-sec.de/post/open_source_intelligence_2024_eu_version/)**: 2024 Germany & EU Edition.
-- **[Reviving C2 Powershell Empire](https://blog.network-sec.de/post/c2_evasion_revive_powershell_empire_starkiller/)**: Reviving Empire Payloads to bypass Defender
-- **[Contemporary Persistence using C2 Sliver](https://blog.network-sec.de/post/persistence_c2_contemporary_true_cybercrime_anyrun_sliver/)**: In a `Assumed Breach` scenario we show how to establish persistance with C2 sliver.
-
----
-
-Thank you for visiting our GitHub! Feel free to connect or contribute to any project. Let's make the digital world a safer place together. 
-
-Much ❤️🧡💕 `Love` 💕🧡❤️ to everyone!
-
-It's the only thing that could save us and keep us sane (but probably won't, as we all seem to try and increase the entropy. Nope we're not better than you). 
-
 We openly speak out against **Hate** & **Discrimination** - we believe, we're all the same, yet we don't have all the same `privileges`. No escalation jokes at that point.
 
