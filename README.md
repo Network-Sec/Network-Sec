@@ -29,7 +29,7 @@ If you find our work helpful, consider supporting our efforts with a donation! E
 
 ## About
     
-We openly speak out against **Hate** & **Discrimination** - we believe, we're all the same, yet we don't have all the same `privileges`. No escalation jokes at that point. We believe, this world doesn't deserve us, and that why, it tries to eliminate us. 
+We openly speak out against **Hate** & **Discrimination** - we believe, we're all the same, yet we don't have all the same `privileges`. No escalation jokes at that point. We believe, we didn't come from this world, and that why, it tries to eliminate us. 
 
 **But we resist**
 
